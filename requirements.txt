@@ -1,0 +1,8 @@
+numpy
+pandas
+python-igraph
+scipy
+networkx
+node2vec
+xgboost
+scikit-learn
